@@ -2,9 +2,7 @@
 
 Antes de publicar:
 
-1. Substitua em todos os arquivos:
-   suporte.checktour@gmail.com
-   pelo e-mail oficial do CheckTour.
+1. O e-mail oficial já está configurado como `suporte.checktour@gmail.com`.
 
 2. Publique a pasta `legal_site` em uma URL HTTPS pública.
 
@@ -21,4 +19,4 @@ URLs que deverão ser informadas na Google Play:
 Também é recomendável disponibilizar:
 - /termos.html
 
-Não publique com o placeholder de e-mail.
+O e-mail oficial já está configurado.
